@@ -1,16 +1,29 @@
-## Hi there 👋
+# 💻 About Me
 
-<!--
-**maviyetz/maviyetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi there, I'm [Maviye]!
 
-Here are some ideas to get you started:
+- 🎓 **Computer Engineering Student** | Passionate about coding and problem-solving.
+- 📚 Currently exploring **Data Structures**, **Algorithms**, and **Object-Oriented Programming**.
+- 🌱 Learning: C#, C++, Python and creating automation systems.
+- 🎯 My Career Goal: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🛠️ Skills & Tools
+
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+
+---
+
+
+# 📫 Connect with Me
+
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/maviyetürköz)
+
+---
+
+### "Celebrate endings – for they precede new beginnings."
+

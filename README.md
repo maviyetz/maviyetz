@@ -5,7 +5,7 @@
 - 🎓 **Computer Engineering Student** | Passionate about coding and problem-solving.
 - 📚 Currently exploring **Data Structures**, **Algorithms**, and **Object-Oriented Programming**.
 - 🌱 Learning: C#, C++, Python and creating automation systems.
-- 🎯 My Career Goal: 
+
 
 ---
 

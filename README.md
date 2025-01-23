@@ -19,11 +19,7 @@
 ---
 
 
-# 📫 Connect with Me
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/maviyetürköz)
-
----
 
 ### "Celebrate endings for they precede new beginnings."
 

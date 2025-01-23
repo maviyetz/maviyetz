@@ -25,5 +25,5 @@
 
 ---
 
-### "Celebrate endings – for they precede new beginnings."
+### "Celebrate endings for they precede new beginnings."
 

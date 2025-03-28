@@ -21,5 +21,5 @@
 
 
 
-### "Celebrate endings for they precede new beginnings."
+
 
